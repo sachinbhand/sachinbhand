@@ -14,3 +14,8 @@
 ✍️ I share my learning journey through linkdin and GitHub projects.
 
 
+## 🚀 Featured Projects
+
+| 🚀 Project | 💬 Description & Links |
+|-----------|------------------------|
+| 🌐 AWS VPC – Connecting Private Subnets to the Internet Using NAT Gateway |  (Linux, Nginx, VPC, NAT Gatway) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-AWS-VPC-Connecting-Private-Subnets-to-the-Internet-Using-NAT-Gateway) |
