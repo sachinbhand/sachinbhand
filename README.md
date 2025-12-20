@@ -1,5 +1,5 @@
 
-                             Hi 👋, I'm Sachin Bhand
+                              Hi 👋, I'm Sachin Bhand 
 
 🚀 Aspiring AWS & DevOps Engineer | 🐧 Linux/Ubuntu | ☁️ Cloud Computing | AWS Fundamentals |
 
@@ -19,3 +19,4 @@
 | 🚀 Project | 💬 Description & Links |
 |-----------|------------------------|
 | 🌐 AWS VPC – Connecting Private Subnets to the Internet Using NAT Gateway |  (Linux, Nginx, VPC, NAT Gatway) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-AWS-VPC-Connecting-Private-Subnets-to-the-Internet-Using-NAT-Gateway) |
+|🚀 Project :Multi-Container Deployment on AWS EC2 using Docker ☁️🐳| (Ec2,NGINX.DOCKER,IMAGES,CONTAINERS,DOCKERHUB) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Multi-Container-Deployment-on-AWS-EC2-using-Docker )|
