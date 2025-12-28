@@ -20,3 +20,4 @@
 |-----------|------------------------|
 | 🌐 AWS VPC – Connecting Private Subnets to the Internet Using NAT Gateway |  (Linux, Nginx, VPC, NAT Gatway) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-AWS-VPC-Connecting-Private-Subnets-to-the-Internet-Using-NAT-Gateway) |
 |🚀 Project :Multi-Container Deployment on AWS EC2 using Docker ☁️🐳| (Ec2,NGINX.DOCKER,IMAGES,CONTAINERS,DOCKERHUB) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Multi-Container-Deployment-on-AWS-EC2-using-Docker )|
+|🚀 Project: Dockerized Flask Quiz Game Application 🐳🐍 | (Ec2,DedicatedDIR,Docker Components,Containers) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-Project-Dockerized-Flask-Quiz-Game-Application-m)|
