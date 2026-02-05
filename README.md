@@ -19,5 +19,6 @@
 | 🚀 Project | 💬 Description & Links |
 |-----------|------------------------|
 | 🌐 AWS VPC – Connecting Private Subnets to the Internet Using NAT Gateway |  (Linux, Nginx, VPC, NAT Gatway) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-AWS-VPC-Connecting-Private-Subnets-to-the-Internet-Using-NAT-Gateway) |
+| 🚀 Project: Serverless Weather Notification System on AWS-Lambda ☁️🌦️ |  (AWS-Lambda,SNS,AWS-EventBridge,OpenWeatherApp) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Project-Serverless-Weather-Notification-System-on-AWS-)) |
 |🚀 Project :Multi-Container Deployment on AWS EC2 using Docker ☁️🐳| (Ec2,NGINX.DOCKER,IMAGES,CONTAINERS,DOCKERHUB) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Multi-Container-Deployment-on-AWS-EC2-using-Docker )|
 |🚀 Project: Dockerized Flask Quiz Game Application 🐳🐍 | (Ec2,DedicatedDIR,Docker Components,Containers) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-Project-Dockerized-Flask-Quiz-Game-Application-m)|
