@@ -22,3 +22,4 @@
 | 🚀 Project: Serverless Weather Notification System on AWS-Lambda ☁️🌦️ |  (AWS-Lambda,SNS,AWS-EventBridge,OpenWeatherApp) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Project-Serverless-Weather-Notification-System-on-AWS-)) |
 |🚀 Project :Multi-Container Deployment on AWS EC2 using Docker ☁️🐳| (Ec2,NGINX.DOCKER,IMAGES,CONTAINERS,DOCKERHUB) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Multi-Container-Deployment-on-AWS-EC2-using-Docker )|
 |🚀 Project: Dockerized Flask Quiz Game Application 🐳🐍 | (Ec2,DedicatedDIR,Docker Components,Containers) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/-Project-Dockerized-Flask-Quiz-Game-Application-m)|
+|🚀 Project: Terraform 3-Tier AWS Architecture | (Terraform,VPC,EC2,S3,Backend) <br> 🔗 [GitHub Repo](https://github.com/sachinbhand/Terraform-3-Tier-AWS-Architecture-VPC-EC2-S3-Backend-)|
